@@ -16,7 +16,7 @@
 ## 📫 How to Reach Me:
 
 *   **Email:** [aljonarddc@gmail.com](mailto:aljonarddc@gmail.com)
-*   **LinkedIn:**  *[inkedIn profile](https://www.linkedin.com/in/aljonarddelacruz/)*
+*   **LinkedIn:**  *[My LinkedIn Profile](https://www.linkedin.com/in/aljonarddelacruz/)*
 
 <!--
 **aljonard-dc/aljonard-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
