@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
   </a>
   <a target="_blank" href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="42" height="42" />
   </a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
@@ -58,9 +58,9 @@
 ## 📫  Where to find me
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/aljonarddelacruz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="42" height="42" />
   </a>
-  <a href="mailto:aljonarddc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.facebook.com/aljonarddc">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Gmail" width="42" height="42"/>
   </a>
 </p>
