@@ -58,9 +58,9 @@
 ## 📫  Where to find me
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/aljonarddelacruz/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="42" height="42" />
   </a>
   <a href="https://www.facebook.com/aljonarddc">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Gmail" width="42" height="42"/>
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Gmail" width="42" height="42"/>
   </a>
 </p>
