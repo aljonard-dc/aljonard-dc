@@ -64,3 +64,5 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Gmail" width="42" height="42"/>
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljonard-dc&layout=compact)
