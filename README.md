@@ -3,7 +3,7 @@
 ## 👀 About Me
 - 🧑🏽‍💻 Passionate Web Developer | Continuously Learning  
 - 👨🏽‍🎓 Information Technology Graduate | Camarines Norte State College, Philippines  
-- 🖥️ Focusing on Front-End Development | Crafting User-Friendly and Engaging Web Experiences  
+- 🖥️ Focusing on Web Development | Crafting User-Friendly and Engaging Web Experiences  
 - 📚 Expanding Knowledge in Full-Stack Development | Building End-to-End Solutions  
 
 ## 🛠️ Languages and Tools I Use
